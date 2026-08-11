@@ -4,7 +4,7 @@
 
 🚀 Live Demo
 
-View Live Demo ( coming soon..... )
+View Live Demo (https://darksyntax1312.github.io/todo-app/) 
 ✨ Features
 
     ✅ Add new tasks with a single click
