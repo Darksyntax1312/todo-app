@@ -11,7 +11,7 @@ body {
 .Flux {
     display: flex;
     align-items: center;
-    justify-content: flex-start;
+    justify-content: center;
     gap: 10px;
     width: 95vw;
     margin: auto;
@@ -34,6 +34,8 @@ body {
     font-family: "Lavishly Yours", cursive;
     font-weight: 600;
     font-style: normal;
+    display:flex;
+    justify-content:center;
 }
 
 .flex-item-1 {
@@ -81,6 +83,7 @@ body {
     width: 90vw;
     margin: auto;
     padding-top: 20px;
+    justify-content:center;
 }
 
 .list-items {
